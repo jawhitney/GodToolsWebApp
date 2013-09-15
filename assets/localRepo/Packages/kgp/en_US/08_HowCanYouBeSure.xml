@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page color="#AD7831" watermark="ice_mark.png">
+	
+	<title>
+        <heading x="10" w="285">HOW TO KNOW THAT CHRIST IS IN YOUR LIFE</heading>
+    </title>
+	
+	<button>
+		<buttontext size="82">Did you receive Christ into your life?</buttontext>
+		<panel>
+			<text size="90">According to His promise as recorded in Revelation 3:20, where is Christ right now in relation to you?  
+                
+Christ said that He would come into your life and be your Savior and friend so you can know Him personally.  Would He mislead you?  
+                
+On what authority do you know that God has answered your prayer?  (The trustworthiness of God Himself and His Word.) </text>
+		</panel>
+	</button>
+	
+	<button>
+		<buttontext size="82">The Bible promises Eternal Life ...</buttontext>
+		<panel>
+			<text size="90">... to all who receive Christ.</text>
+			<text size="90">"And this is the testimony: God has given us eternal life, and this life is in His Son. He who has the Son has life; he who does not have the Son of God does not have life. I write these things to you who believe in the name of the Son of God, so that you may know that you have eternal life."    (1 John 5:11-13)</text>
+            <text size="90">Thank God often that Christ is in your life and that He will never leave you (Hebrews 13:5). You can know on the basis of His promise that Christ lives in you and that you have eternal life from the very moment you invite Him in.</text>
+		</panel>
+    </button>
+    
+    <text textalign="center" size="112" modifier="bold-italics">An important reminder ... </text>
+    
+    <button>
+        <buttontext>Do Not Depend on Feelings</buttontext>
+        <panel>
+            <text size="79">The promise of God's Word, the Bible - not our feelings - is our authority.  The Christian lives by faith (trust) in the trustworthiness of God Himself and His Word.</text>
+            <text size="79">Flying in a jet can illustrate the relationship among fact (God and His Word), faith (our trust in God and His Word), and feeling (the result of our faith and obedience).    (John 14:21)</text>
+            <image align="center" w="143" h="66">Plane.png</image>
+            <text size="79">To be transported by a jet, we must place our faith in the trustworthiness of the air- craft and the pilot who flies it. Our feelings of confidence or fear do not affect the ability of the jet to transport us, though they do affect how much we enjoy the trip.</text>
+            <text size="79">In the same way, we as Christians do not depend on feelings or emotions, but we place our faith (trust) in the trustworthiness of God and the promises of His Word.</text>
+        </panel>
+    </button>
+    
+    <question size="96">So what comes next?</question>
+
+
+</page>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page color="#57324D" watermark="sprout_desat.png" buttons="4">
+	
+	<title>
+	  <heading x="10" w="285" size="94" translate="true">HOW CAN YOU BE SURE THAT ALL THIS HAS REALLY HAPPENED?</heading>
+    </title>
+
+    <button >
+		<buttontext size="90" translate="true">Jesus is in your life ...</buttontext>
+		<panel>
+			<text size="90" translate="true">...because God has promised, and he can be trusted.</text>
+			<text size="90" modifier="italics" translate="true">Thank God often that Jesus is in your life, and that he will never leave you.</text>
+            <text size="90" textalign="right" translate="true">(Romans 8:38-39)</text>
+		</panel>
+	</button>
+	
+	<button yoffset="-12">
+		<buttontext size="90" translate="true">You Have the Spirit of Christ</buttontext>
+		<panel>
+			<text size="90" translate="true">You can know that the Spirit of Christ lives in you and that you have eternal life from the moment you invited Jesus into your life, because this is what he has promised.</text>
+			<text size="85" modifier="italics" translate="true">And this is what God has testified: He has given us eternal life, and this life is in his Son. Whoever has the Son has life; whoever does not have God's Son does not have life. I have written this to you who believe in the name of the Son of God, so that you may know you have eternal life.</text>
+            <text size="90" textalign="right" translate="true">- 1 John 5:11-13</text>
+		</panel>
+	</button>
+    
+    <text textalign="center" size="110" modifier="bold" translate="true">What If You Don't Feel Any Different?</text>
+		
+	<button>
+		<buttontext size="90" translate="true">Rely on God</buttontext>
+		<panel>
+			<text size="90" translate="true">Although feelings are valid and important, they don't determine what is true. A follower of Jesus lives by trusting in the reliability of God himself and what he has said.</text>
+		</panel>
+	</button>
+	
+	<button yoffset="-12">
+		<buttontext size="85" translate="true">Do Not Depend on How You Feel</buttontext>
+		<panel>
+            <text size="80" translate="true">We rely on God and his promises in the Bible, not our feelings. Feelings are valid and important, but they don't determine what is true. A follower of Jesus lives by trusting in the reliability of God himself and what he has said through his word, the Bible.</text>
+            <image align="center" yoffset="-8" w="286" h="90">Train.png</image>
+            <text size="72" yoffset="-8" textalign="center" translate="true">[ Fact ] - [ Faith ] - [ Feeling ]</text>
+            <text size="80" translate="true">The train illustrates the connection between fact (God and his word), faith (our trust in God and his word) and feelings (a result of our faith and obedience).</text>
+            <text size="80" translate="true">The train will run with or without the guard's van, but it would be useless to attempt to pull the train by the guard's van.  In the same way, we can rely on God and what he has said in his word, and not depend on how we feel.</text>
+        </panel>
+    </button>
+    <question translate="true">So what comes next?</question>
+	
+</page>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page watermark="ice_mark.png" color="#1E69A1">
+    
+    <text align="center" color="#FFFFFF" modifier="bold" textalign="left" size="110" xoffset="20" y="50" w="308">WOULD YOU LIKE TO</text>
+    <text align="center" color="#F0AB00" modifier="bold" textalign="left" size="280" xoffset="20" yoffset="-50" w="308">KNOW GOD</text>
+    <text align="center" color="#FFFFFF" modifier="bold" textalign="right" size="110" xoffset="-20" yoffset="-50" w="308">PERSONALLY?</text>	
+	<text align="center" color="#ffffff" modifier="italics" textalign="center" size="112" yoffset="100" w="280">The following four principles will help you discover how to know God personally and experience the abundant life He promised.</text>
+    
+</page>

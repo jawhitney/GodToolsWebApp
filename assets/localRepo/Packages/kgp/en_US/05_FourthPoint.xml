@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page color="#1E69A1" watermark="ice_mark.png"><!--5554a0-->
+
+	<title>
+		<number>4</number>
+		<heading size="90">WE MUST INDIVIDUALLY RECEIVE JESUS CHRIST AS SAVIOR AND LORD; THEN WE CAN KNOW GOD PERSONALLY AND EXPERIENCE HIS LOVE AND PLAN.</heading>
+	</title>
+    
+	<button>
+		<buttontext size="80">We Must Receive Christ</buttontext>
+		<panel>
+			<text size="90">"Yet to all who received Him, to those who believed in His name, He gave the right to become children of God."</text>
+            <text size="80" textalign="right">(John 1:12)</text>
+		</panel>
+	</button>
+    
+	<button>
+		<buttontext size="80">We Receive Christ Through Faith</buttontext>
+		<panel>
+			<text size="90">"For it is by grace you have been saved, through faith--and this not from yourselves, it is the gift of God--not by works, so that no one can boast."</text>
+            <text size="80" textalign="right">(Ephesians 2:8-9)</text>
+		</panel>
+	</button>
+    
+    <button>
+		<buttontext size="80">When We Receive Christ ...</buttontext>
+		<panel>
+			<text size="90">We experience a new birth.</text>
+            <text size="80" textalign="right">(Read John 3:1-8)</text>
+		</panel>
+	</button>
+	
+	<button>
+		<buttontext size="64">We Receive Christ By Personal Invitation</buttontext>
+		<panel>
+			<text size="90">[Christ speaking] "Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with him, and he with Me."</text>
+            <text size="80" textalign="right">(Revelation 3:20)</text>
+		</panel>
+	</button>
+	
+	<button>
+		<buttontext size="80">Receiving Christ involves ...</buttontext>
+		<panel>
+			<text size="90">... turning to God from self (repentance) and trusting Christ to come into our lives to forgive us of our sins and to make us what He wants us to be.</text>
+            <text size="90">Just to agree intellectually that Jesus Christ is the Son of God and that He died on the cross for our sins is not enough.  Nor is it enough to have an emotional experience.  We receive Jesus Christ by faith, as an act of the will.</text>
+		</panel>
+	</button>
+    
+</page>

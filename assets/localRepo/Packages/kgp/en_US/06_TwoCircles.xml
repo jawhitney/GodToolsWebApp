@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page color="#3E6827" watermark="ice_mark.png" bigbuttons="2"><!--7EB14F-->
+	
+	<title mode="straight">
+		<heading textalign="center" size="90">THESE TWO CIRCLES REPRESENT TWO KINDS OF LIVES.</heading>
+	</title>
+    
+	<button mode="big">
+		<image align="center">SelfDirected.png</image>
+		<buttontext size="90">A Life Without Jesus Christ</buttontext>
+		<panel>
+            <text size="82" textalign="left" xoffset="2" w="300">s - Self is in the center and on the throne.</text>            
+            <text size="82" textalign="left" yoffset="-6" w="300">† - Christ is outside.</text>
+		</panel>
+	</button>
+	
+	<button mode="big">
+		<image align="center" h="184" w="184">ChristDirected.png</image>
+		<buttontext size="90">A Life Entrusted to Christ</buttontext>
+		<panel> 
+            <text size="82" textalign="left" xoffset="-4" w="300">† - Christ is in the center and on the throne.</text>
+            <text size="82" textalign="left" xoffset="-2" yoffset="-6" w="300">s - Self yields to Christ.</text>
+            
+			<image align="center" xoffset="-6" yoffset="10" w="260" h="2">line.png</image>
+            
+			<text align="center" modifier="italics" yoffset="10" xoffset="-10" textalign="center" w="220">Which circle best describes your life?</text>
+			<text align="center" modifier="italics" xoffset="-10" textalign="center" w="220">Which circle would you like to have represent your life?</text>
+		</panel>
+	</button>
+    
+	<question mode="straight" size="96">The following explains how you can receive Christ ...</question>
+    
+</page>

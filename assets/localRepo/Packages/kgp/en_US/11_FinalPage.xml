@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page color="#3E6827" watermark="ice_mark.png" buttons="6"><!--DC5C31-->
+	
+	<title mode="straight" h="48" size="90">
+        <heading textalign="center">WEBSITES TO ASSIST YOU</heading>
+    </title>
+	
+    <button mode="url" label="Still not sure who Jesus is?">www.everystudent.com/wires/whowas.html</button>
+	
+	<button mode="url" label="Want to read the Bible?">m.youversion.com/bible/</button>
+    
+    <button mode="url" label="More about Christianity ...">www.startingwithgod.com</button>
+    
+	<button mode="url" label="Want to share your new Faith?">www.startingwithgod.com/serving-others/</button>
+    
+    <button mode="url" label="Jesus in other Languages ...">www.mylanguage.net.au</button>
+    
+</page>

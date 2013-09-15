@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page color="#232472" watermark="ice_mark.png" buttons="1">
+	
+	<title mode="straight">
+		<heading align="center" textalign="center" x="10" size="90" w="300">YOU CAN RECEIVE CHRIST RIGHT NOW 
+BY FAITH THROUGH PRAYER</heading>
+	</title>
+	
+	<text align="center" textalign="center" size="80">(Prayer is talking with God.)</text>
+	<text align="center" modifier="bold-italics" size="120" textalign="center">God knows your heart and is not as concerned with your words as He is with the attitude of your heart.</text>
+    
+	<button>
+		<buttontext size="82">The following is a suggested prayer:</buttontext>
+		<panel>
+            <image align="center" w="280" h="2">line.png</image>
+			<text size="95" modifier="italics"> Lord Jesus,
+                
+I want to know you personally.  Thank you for dying on the cross for my sins.  I open the door of my life and receive you as my Savior and Lord.
+                
+Thank you for forgiving me of my sins and giving me eternal life.  Take control of the throne of my life.  Make me the kind of person You want me to be.</text>
+			
+			<image align="center" w="280" h="2">line.png</image>
+			<text  align="center" textalign="center" size="95">Does this prayer express the desire of your heart?
+                
+If it does, pray this prayer right now.</text>
+		</panel>
+	</button>
+    
+	<question mode="straight" size="96">Christ will come into your life as He promised.</question>
+    
+</page>

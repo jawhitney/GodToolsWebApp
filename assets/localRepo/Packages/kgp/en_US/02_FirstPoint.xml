@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page color="#232472" watermark="ice_mark.png">  <!--#1816A2-->
+    
+	<title>
+		<number>1</number>
+		<heading size="110">GOD LOVES YOU AND CREATED YOU TO KNOW HIM PERSONALLY. HE HAS A WONDERFUL PLAN FOR YOUR LIFE.</heading>
+	</title>
+	
+	<button>
+		<buttontext>God's Love</buttontext>
+		<panel>
+			<text size="90">"For God so loved the world that He gave His one and only Son, that whoever believes in Him shall not perish but have eternal life."</text>
+            <text size="80" textalign="right">(John 3:16, NIV)</text>
+		</panel>
+	</button>
+	
+	<button>
+		<buttontext>God's Plan</buttontext>
+		<panel>
+			<text size="97">"Now this is eternal life: that they may know you, the only true God, and Jesus Christ, whom you have sent."</text> 
+            <text size="80" textalign="right">(John 17:3)</text>
+		</panel>
+	</button>
+	
+	<question>What prevents us from knowing God personally?</question>
+    
+</page>

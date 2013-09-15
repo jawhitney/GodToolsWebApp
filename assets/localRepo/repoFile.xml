@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snuffy>
+	<package status="live" id="kgp" name="Knowing God Personally" path="Packages/kgp" base_language="en">
+		<language status="live" type="interactive" language_code="en" name="Knowing God Personally" path="Packages/kgp/en" icon="Packages/kgp/icons/en.png" version="1" minimum_interpreter_version="1" hash="2807c4b0844f65494c86f0c1bb81a19252980691"/>
+		<language status="live" type="interactive" language_code="en_US" name="Would You Like To Know God Personally?" path="Packages/kgp/en_US" icon="Packages/kgp/icons/en_US.png" version="1" minimum_interpreter_version="1" hash="ca973f26f08e039bec14124f02bacdf7df4f2e87"/>
+		<language status="live" type="interactive" language_code="en_heartbeat" name="Knowing God Personally" path="Packages/kgp/en_heartbeat" icon="Packages/kgp/icons/en_heartbeat.png" version="1" minimum_interpreter_version="1" hash="2807c4b0844f65494c86f0c1bb81a19252980691"/>
+		<!--
+		<language status="live" type="classic" language_code="en_classic" name="Knowing God Personally" path="Packages/kgp/en_classic" icon="Packages/kgp/icons/en_classic.png" version="1" minimum_interpreter_version="1" hash="2807c4b0844f65494c86f0c1bb81a19252980691"/>
+		-->
+	</package>
+	<package status="live" id="satisfied" name="Satisfied?" path="Packages/satisfied" base_language="en">
+		<language status="live" type="interactive" language_code="en" name="Satisfied?" path="Packages/satisfied/en" icon="Packages/satisfied/icons/en.png" version="1" minimum_interpreter_version="1" hash="d10c5b4d0aabb2410e847cf4b4d4cf7d6226603d"/>
+		<!--
+		<language status="live" type="classic" language_code="en_classic" name="Satisfied?" path="Packages/satisfied/en_classic" icon="Packages/satisfied/icons/en_classic.png" version="1" minimum_interpreter_version="1" hash="2807c4b0844f65494c86f0c1bb81a19252980691"/>
+		-->
+	</package>
+	<!--
+	<package status="live" id="cwg" name="Connecting With God" path="Packages/cwg" base_language="classic">
+		<language status="live" type="classic" language_code="en_classic" name="Connecting With God" path="Packages/cwg/en_classic" icon="Packages/cwg/icons/en_classic.png" version="1" minimum_interpreter_version="1" hash="9d16459c9b3fe7692ccfc2f30553237e255ebe38"/>
+	</package>
+	-->
+	<package status="live" id="fourlaws" name="The Four Spiritual Laws" path="Packages/fourlaws" base_language="en">
+		<language status="live" type="interactive" language_code="en" name="The Four Spiritual Laws" path="Packages/4laws/en" icon="Packages/fourlaws/icons/en.png" version="1" minimum_interpreter_version="1" hash="9d16459c9b3fe7692ccfc2f30553237e255ebe38"/>
+		<!--
+		<language status="live" type="classic" language_code="en_classic" name="The Four Spiritual Laws" path="Packages/fourlaws/en_classic" icon="Packages/fourlaws/icons/en_classic.png" version="1" minimum_interpreter_version="1" hash="9d16459c9b3fe7692ccfc2f30553237e255ebe38"/>
+		<language status="live" type="interactive" language_code="ru" name="Слышали ли вы о них" path="Packages/fourlaws/ru" icon="Packages/fourlaws/icons/ru.png" version="1" minimum_interpreter_version="1" hash="94092c5374df9a94f0310267071e2ee7600e8996"/>
+		-->
+	</package>
+</snuffy>

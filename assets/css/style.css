@@ -1,0 +1,339 @@
+/* ----- Generic styles ----- */
+
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 17px;
+	height: 100%;
+}
+
+p {
+	margin: 5px 0;
+}
+
+.aligncenter {
+	text-align: center;
+}
+
+.alignleft {
+	text-align: left;
+}
+
+.alignright {
+	text-align: right;
+}
+
+.textBold {
+	font-weight: bold;
+}
+
+.textItalic {
+	font-style: italic;
+}
+
+.textBoldItalic {
+	font-weight: bold;
+	font-style: italic;
+}
+
+input[type="text"] {
+	margin: 0 auto;
+	width: 90%;	
+}
+
+/* ----- jQuery Mobile styles ----- */
+
+.ui-btn-inner {
+	white-space: normal;
+}
+
+.ui-header .ui-title, .ui-footer .ui-title {
+	white-space: normal;
+}
+
+.ui-li-heading {
+	white-space: normal;
+}
+
+.ui-content {
+	padding: 0;
+	margin: 0;
+}
+
+.ui-content .ui-listview-inset {
+	margin: 0.5em;
+}
+
+.ui-body-a, .ui-dialog.ui-overlay-a {
+	color: #ffffff;
+	text-shadow: 0 1px 0 #999999;
+	overflow: hidden;
+}
+
+.ui-body-a .contentButton .ui-link:visited, .ui-body-a .contentButton .ui-link, .ui-body-a .contentButton .ui-link {
+	color: white;
+	text-decoration: none;
+}
+
+/* ----- Specific element styles ----- */
+
+.homeLogo {
+	display: block;
+	width: 119px;
+	height: 91px;
+	margin: 15px auto;
+}
+
+.repo_page {
+	background: url("../images/backgrounds/bg-vertical-gradient.png") repeat-x bottom, url("../images/backgrounds/bg-horizontal-gradient.png") repeat-y center top, url("../images/backgrounds/bg-linen.png");
+	height: 100%;
+}
+
+.contentTitle {
+	overflow: hidden;
+	margin: 10px 20px 20px 0;
+	padding: 0;
+	border-bottom-right-radius: 0.6em;
+	border-top-right-radius: 0.6em;
+	-moz-border-radius-bottomright: 0.6em;
+	-moz-border-radius-topright: 0.6em;
+	background: #ffffff;
+	color: #333333;
+	-moz-box-shadow: 4px 4px 5px 0px #333;
+  	-webkit-box-shadow: 4px 4px 5px 0px #333;
+  	box-shadow: 4px 4px 5px 0px #333;
+}
+
+.titleNumber {
+	padding: 5px 5px 5px 10px;
+	float: left;
+	display: block;
+	font-size: 68px;
+	line-height: 0.8em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.titleHeading {
+	padding: 5px;
+	overflow: hidden;
+	font-weight: bold;
+}
+
+.titleSubheading {
+	padding: 5px;
+	overflow: hidden;
+}
+
+.contentTitleClear {
+	overflow: hidden;
+	margin: 15px 15px 0 15px;
+	padding: 0;
+	color: #ffffff;
+}
+
+.titleHeadingClear {
+	padding: 0 5px;
+	overflow: hidden;
+	font-weight: bold;
+}
+
+.titleSubheadingClear {
+	padding: 0 5px;
+	overflow: hidden;
+}
+
+.contentTitlePeek {
+	overflow: hidden;
+	margin: 0px 20px 20px 0;
+	padding: 0;
+	border-bottom-right-radius: 0.6em;
+	-moz-border-radius-bottomright: 0.6em;
+	background: #ffffff;
+	-moz-box-shadow: 4px 4px 5px 0px #333;
+  	-webkit-box-shadow: 4px 4px 5px 0px #333;
+  	box-shadow: 4px 4px 5px 0px #333;
+}
+
+.titleHeadingPeek {
+	padding: 5px;
+	float: left;
+	max-width: 33%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: right;
+}
+
+.titleSubheadingPeek {
+	padding: 5px;
+	overflow: hidden;
+	font-weight: bold;
+	border-left: 1px solid #ddd;
+	text-align: left;
+}
+
+.peekPanelLink {
+	position: relative;
+	overflow: hidden;
+	cursor: pointer;
+	display: block;
+	margin-top: 0;
+	padding: 0;
+	width: 100%;
+	height: 18px;
+	background-color: #fff;
+	border-bottom-left-radius: 0.6em;
+	border-bottom-right-radius: 0.6em;
+	-moz-border-radius-bottomleft: 0.6em;
+	-moz-border-radius-bottomright: 0.6em;
+	text-align: center;
+	color: #333333;
+
+	/* Safari 4-5, Chrome 1-9 */
+	background: -webkit-gradient(linear, 0% 0%, 0% 50%, from(#ddd), to(#fff));
+	
+	/* Safari 5.1, Chrome 10+ */
+	background: -webkit-linear-gradient(top, #ddd, #fff 50%);
+	
+	/* Firefox 3.6+ */
+	background: -moz-linear-gradient(top, #ddd, #fff 50%);
+	
+	/* IE 10 */
+	background: -ms-linear-gradient(top, #ddd, #fff 50%);
+	
+	/* IE */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#dddddd', endColorstr='#ffffff');
+	
+	/* Opera 11.10+ */
+	background: -o-linear-gradient(top, #ddd, #fff 50%);
+}
+
+.peekPanelContent {
+	z-index: 100;
+	position: absolute;
+	overflow: hidden;
+	display: none;
+	margin: 0;
+	padding: 0;
+	width: 90%;
+	background: #fff;
+	border: none;
+	border-bottom-right-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	-moz-box-shadow: 4px 4px 5px 0px #333;
+  	-webkit-box-shadow: 4px 4px 5px 0px #333;
+  	box-shadow: 4px 4px 5px 0px #333;
+}
+
+.peekPanelContent p {
+	margin: 0;
+	padding: 0.6em;
+	line-height: 1.25em;
+}
+
+.contentTitleStraight {
+	overflow: hidden;
+	margin: 10px 0 0 0;
+	padding: 0;
+	color: #000000;
+	background: #ffffff;
+}
+
+.titleHeadingStraight {
+	padding: 5px;
+	overflow: hidden;
+	font-weight: bold;
+}
+
+.titleSubheadingStraight {
+	padding: 5px;
+	overflow: hidden;
+}
+
+.contentButton, .contentText, .contentImage, .contentQuestion {
+	margin: 10px;
+	padding: 0 5px;
+}
+
+.contentButton {
+	overflow: hidden;
+	color: #fff;
+}
+
+.contentButton a p {
+	margin: 5px 0;
+}
+
+.contentQuestion {
+	text-align: right;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.contentQuestionStraight {
+	background: #ffffff;
+	padding: 5px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.lineImage {
+	text-align: center;
+}
+
+.buttonPeekContent {
+	padding: 5px;
+	background: #333;
+	background: rgb(0,0,0);
+	background: rgba(0, 0, 0, 0.25);
+	/*max-height:200px;*/
+	
+}
+
+/* ----- Fancybox styles ----- */
+/* Leftover naming convention from Fancybox */
+/* Fancybox is no longer used */
+
+.fancybox-skin {
+	background: #333;
+	color: #fff;
+	border-radius: 0;
+}
+
+.fancybox-link {
+	display: block;
+	overflow: hidden;
+	margin: 0 auto 10px auto;
+	width: 90%;
+	background: #fff;
+	border-radius: 15px;
+	color: #000;
+	font-weight: bold;	
+}
+
+.fancybox span {
+	display: block;
+	padding: 0 18px 0 5px;
+	background-image: url('../images/left-arrow-white.png');
+	background-repeat: no-repeat;
+	background-position: right;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	border-right: none;
+	border-left: none;
+}
+
+.fancybox-inner img {
+	max-width: 90%;
+	height: auto;
+}
+
+/* ----- ES styles ----- */
+
+h1.esHeading {
+	margin: 0;
+	padding: 5px 10px 0 10px;
+}
+
+div.esContent {
+	padding: 0 10px;
+}

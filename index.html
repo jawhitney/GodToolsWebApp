@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<title>God Tools | Home</title>
+
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0" />
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+
+		<link rel="shortcut icon" href="assets/images/icon.ico" />
+		<link rel="stylesheet" href="assets/jquery/jquery.mobile-1.1.0.min.css" />
+		<link rel="stylesheet" href="assets/css/style.css" />
+		
+		<link rel="apple-touch-icon" sizes="144x144" href="assets/images/apple/apple-touch-icon-144x144.png" />
+		<link rel="apple-touch-icon" sizes="144x144" href="assets/images/apple/apple-touch-icon-114x114.png" />
+		<link rel="apple-touch-icon" sizes="144x144" href="assets/images/apple/apple-touch-icon-72x72.png" />
+		<link rel="apple-touch-icon" sizes="144x144" href="assets/images/apple/apple-touch-icon-57x57.png" />
+
+		<script src="assets/jquery/jquery-1.7.2.min.js" type="text/javascript"></script>
+		<script src="assets/jquery/jquery.mobile-1.1.0.min.js" type="text/javascript"></script>
+		<script src="assets/js/scripts.js" type="text/javascript"></script>
+		
+		<script type="text/javascript">
+			$.mobile.defaultPageTransition = "slide";
+		</script>
+		
+		<script type="text/javascript">
+			window.addEventListener("load",function() {
+				setTimeout(function(){
+					window.scrollTo(0, 1);
+				}, 0);
+			});
+		</script>
+		
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-32986405-1']);
+			_gaq.push(['_trackPageview']);
+			
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+
+	</head>
+	<body>
+
+		<div data-role="page" data-theme="c" id="home" class="repo_page">
+			<div class="homeLogo">
+				<img src="assets/images/logo.png" />
+			</div>
+			<div data-role="content">
+				<ul data-role="listview" data-inset="true" data-theme="c">
+					<li>
+						<a href="#kgp_repo">
+							<h3>Knowing God Personally</h3>
+							<img src="assets/localRepo/Packages/kgp/icons/en@2x.png" />
+						</a>
+					</li>
+					<li>
+						<a href="#satisfied_repo">
+							<h3>Satisfied?</h3>
+							<img src="assets/localRepo/Packages/satisfied/icons/en@2x.png" />
+						</a>
+					</li>
+					<li>
+						<a href="#fourlaws_repo">
+							<h3>The Four Spiritual Laws</h3>
+							<img src="assets/localRepo/Packages/fourlaws/icons/en@2x.png" />
+						</a>
+					</li>
+					<li>
+						<a href="#" class="loadMenu">
+							<h3>Everystudent.com</h3>
+							<img src="assets/images/icons/everystudent.png" />
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div data-role="page" data-theme="c" id="kgp_repo" class="repo_page">
+			<div data-role="header" data-theme="a">
+				<a href="#home" data-role="button" data-icon="home" data-direction="reverse">Home</a>
+				<h1>Knowing God Personally</h1>
+			</div>
+			<div data-role="content">
+				<ul id="list_kgp_en" data-role="listview" data-inset="true" data-theme="c">
+					<li>
+						<a href="#" class="loadBooklet" id="kgp_en" name="kgp_en">
+							<h3>English</h3>
+						</a>
+					</li>
+					<li>
+						<a href="#" class="loadBooklet" id="kgp_en_US" name="kgp_en_US">
+							<h3>English (United States)</h3>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div data-role="page" data-theme="c" id="satisfied_repo" class="repo_page">
+			<div data-role="header" data-theme="a">
+				<a href="#home" data-role="button" data-icon="home" data-direction="reverse">Home</a>
+				<h1>Satisfied?</h1>
+			</div>
+			<div data-role="content">
+				<ul id="list_satisfied_en" data-role="listview" data-inset="true" data-theme="c">
+					<li>
+						<a href="#" class="loadBooklet" id="satisfied_en" name="satisfied_en">
+							<h3>English</h3>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div data-role="page" data-theme="c" id="fourlaws_repo" class="repo_page">
+			<div data-role="header" data-theme="a">
+				<a href="#home" data-role="button" data-icon="home" data-direction="reverse">Home</a>
+				<h1>The Four Spiritual Laws</h1>
+			</div>
+			<div data-role="content">
+				<ul id="list_fourlaws_en" data-role="listview" data-inset="true" data-theme="c">
+					<li>
+						<a href="#" class="loadBooklet" id="fourlaws_en" name="fourlaws_en">
+							<h3>English</h3>
+						</a>
+					</li>
+					<li>
+						<a href="#" class="loadBooklet" id="fourlaws_pl" name="fourlaws_pl">
+							<h3>Język polski</h3>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+	</body>
+</html>

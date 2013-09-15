@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<page color="#AD7831" watermark="ice_mark.png"><!--1d1ab2-->
+	
+	<title>
+        <number>2</number>
+        <heading size="110">PEOPLE ARE SINFUL AND SEPARATED FROM GOD, SO WE CANNOT KNOW HIM PERSONALLY OR EXPERIENCE HIS LOVE AND PLAN.</heading>
+    </title>
+	
+	<button>
+		<buttontext>People Are Sinful</buttontext>
+		<panel>
+			<text size="85">"…for all have sinned and fall short of the glory of God"    (Romans 3:23)</text>
+            <text size="85">People were created to have fellow- ship with God; but, because of our stubborn self-will, we chose to go our own independent way and fellowship with God was broken.  This self-will, characterized by an attitude of active rebellion or passive indifference, is evidence of what the Bible calls sin.</text>
+		</panel>
+	</button>
+	
+	<button>
+		<buttontext>People Are Separated</buttontext>
+		<panel>
+			<text size="85">"For the wages of sin is death" [spiritual separation from God]    (Romans 6:23)</text>
+			<image align="center" w="176" h="176">Separated.png</image>
+            <text size="72" textalign="center">▲ - Holy God  |  ★ - Sinful Man</text>
+            <text size="85">This diagram illustrates that God is holy and people are sinful.  A great gulf separates the two.  The arrows illustrate that people are continually trying to reach God and establish a personal relationship with Him through his own efforts, such as a good life, philosophy, or religion, but we inevitably fail.</text>
+		</panel>
+	</button>
+	
+	<question>The third principle explains the only way to bridge this gulf ...</question>
+	
+</page>
